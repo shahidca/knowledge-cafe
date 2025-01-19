@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "cover_photo": "https://i.ibb.co.com/wCG0Z6m/pexels-pilipeichenko-16041530.jpg",
+      "title": "Exploring the Future of AI",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/0CQ587R/pexels-ben-khatry-430197437-27908399.jpg",
+      "reading_time": 5,
+      "hashtag": "#AI #Technology",
+      "post_date": "2025-01-18"
+    },
+    {
+      "id": 2,
+      "cover_photo": "https://i.ibb.co.com/0cN5g63/pexels-mateusz-mierzejewski-622168159-17484365.jpg",
+      "title": "Top 10 Travel Destinations",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/WkDwbMr/pexels-karolina-grabowska-8528852.jpg",
+      "reading_time": 7,
+      "hashtag": "#Travel #Adventure",
+      "post_date": "2025-01-17"
+    },
+    {
+      "id": 3,
+      "cover_photo": "https://i.ibb.co.com/MsgScf8/pexels-andreeasimion-3736687.jpg",
+      "title": "Healthy Living Tips",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co.com/60Q3qY1/pexels-evelyn-chong-253251-790104.jpghttps://i.ibb.co.com/TK7370h/pexels-rodolfoclix-1615776.jpg",
+      "reading_time": 4,
+      "hashtag": "#Health #Wellness",
+      "post_date": "2025-01-16"
+    },
+    {
+      "id": 4,
+      "cover_photo": "https://i.ibb.co.com/X8X5ssD/pexels-cottonbro-6862586.jpg",
+      "title": "Mastering Photography Basics",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/1L0dyjR/pexels-regina-tommasi-450434099-30247743.jpg",
+      "reading_time": 6,
+      "hashtag": "#Photography #Tips",
+      "post_date": "2025-01-15"
+    },
+    {
+      "id": 5,
+      "cover_photo": "https://i.ibb.co.com/60Q3qY1/pexels-evelyn-chong-253251-790104.jpg",
+      "title": "The Science of Happiness",
+      "author": "Sarah Davis",
+      "author_img": "https://i.ibb.co.com/60Q3qY1/pexels-evelyn-chong-253251-790104.jpghttps://i.ibb.co.com/TK7370h/pexels-rodolfoclix-1615776.jpg",
+      "reading_time": 8,
+      "hashtag": "#Psychology #Happiness",
+      "post_date": "2025-01-14"
+    },
+    {
+      "id": 6,
+      "cover_photo": "https://i.ibb.co.com/GTR1zhD/pexels-olaseni-omoare-2148436008-30231780.jpg",
+      "title": "Best Programming Languages in 2025",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co.com/BqpX6sG/pexels-fatih-guney-337108406-30218834.jpg",
+      "reading_time": 9,
+      "hashtag": "#Programming #Development",
+      "post_date": "2025-01-13"
+    },
+    {
+      "id": 7,
+      "cover_photo": "https://i.ibb.co.com/60Q3qY1/pexels-evelyn-chong-253251-790104.jpg",
+      "title": "A Guide to Minimalist Living",
+      "author": "Sophia Martinez",
+      "author_img": "https://i.ibb.co.com/1L0dyjR/pexels-regina-tommasi-450434099-30247743.jpg",
+      "reading_time": 5,
+      "hashtag": "#Minimalism #Lifestyle",
+      "post_date": "2025-01-12"
+    },
+    {
+      "id": 8,
+      "cover_photo": "https://i.ibb.co.com/GTR1zhD/pexels-olaseni-omoare-2148436008-30231780.jpg",
+      "title": "Breaking Down Quantum Computing",
+      "author": "James Garcia",
+      "author_img": "https://i.ibb.co.com/WkDwbMr/pexels-karolina-grabowska-8528852.jpg",
+      "reading_time": 10,
+      "hashtag": "#QuantumComputing #Technology",
+      "post_date": "2025-01-11"
+    },
+    {
+      "id": 9,
+      "cover_photo": "https://i.ibb.co.com/wCG0Z6m/pexels-pilipeichenko-16041530.jpg",
+      "title": "Effective Study Techniques",
+      "author": "Linda Clark",
+      "author_img": "https://i.ibb.co.com/1L0dyjR/pexels-regina-tommasi-450434099-30247743.jpg",
+      "reading_time": 6,
+      "hashtag": "#Education #Productivity",
+      "post_date": "2025-01-10"
+    }
+ 
+  ]
+  
